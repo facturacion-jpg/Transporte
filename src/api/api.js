@@ -9,7 +9,11 @@ import {
   storageKeyFor,
 } from '../utils/owner'
 
-const API_URL = import.meta.env.VITE_APPS_SCRIPT_URL || ''
+// La URL de Apps Script es pública (es un endpoint, no una credencial). La
+// dejamos como valor por defecto para que GitHub Pages funcione sin secrets.
+// Si en local existe VITE_APPS_SCRIPT_URL en .env, esa tiene prioridad.
+const DEFAULT_API_URL = 'https://script.google.com/macros/s/AKfycbwbS5d96HLMxcT9GMMSzfazrVht5GXF4C3WD4AM_WDHfeulBQlwHKcfO8JDX6w-Sh2Y/exec'
+const API_URL = import.meta.env.VITE_APPS_SCRIPT_URL || DEFAULT_API_URL
 const USE_REMOTE = Boolean(API_URL)
 
 function normalizeRequest(r) {
