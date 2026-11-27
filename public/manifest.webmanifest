@@ -1,0 +1,10 @@
+﻿{
+  "name": "Ruta Wilson",
+  "short_name": "Ruta",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFD000",
+  "theme_color": "#FFD000",
+  "description": "Aplicativo de transporte para solicitudes y seguimiento de Wilson.",
+  "icons": []
+}

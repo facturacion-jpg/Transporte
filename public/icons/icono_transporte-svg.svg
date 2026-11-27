@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  
+  <g id="location-pin">
+    
+    <path d="M256 16c-26.5 0-48 21.5-48 48 0 36 48 104 48 104s48-68 48-104c0-26.5-21.5-48-48-48z" fill="#C1272D" />
+    
+    <path d="M256 16c-26.5 0-48 21.5-48 48 0 36 48 104 48 104v-28c-12 0-32-52-32-76 0-19.5 14-36 32-39.2V16z" fill="#9E1F24" />
+    
+    <circle cx="253" cy="65" r="16" fill="#8C1B1F" />
+    
+    <circle cx="256" cy="63" r="16" fill="#DCE6F0" />
+    
+    <circle cx="259" cy="59" r="7" fill="#FFFFFF" />
+  </g>
+
+  
+  <g id="bus">
+    
+    <path d="M112 208h352c17.7 0 32 14.3 32 32v8H80l24-32c3-5 5.5-8 8-8z" fill="#F2A91D" />
+    
+    <rect x="128" y="210" width="216" height="22" rx="11" fill="#FCC236" />
+    <rect x="368" y="210" width="96" height="22" rx="11" fill="#FCC236" />
+
+    
+    <path d="M84 232h412v104H152v44c0 11-9 20-20 20H16v-80l68-88z" fill="#2A2D32" />
+
+    
+    <path d="M74 248h62v136H16v-64l58-72z" fill="#639DFC" />
+    
+    <path d="M74 248h10l-56 70v66H16v-64l58-72z" fill="#538BE8" />
+    
+    <path d="M26 332h12l24 28v14H26v-42z" fill="#7DB1FF" />
+
+    
+    <rect x="94" y="344" width="32" height="14" rx="7" fill="#2A2D32" />
+
+    
+    
+    <g>
+      <rect x="152" y="248" width="72" height="72" fill="#639DFC" />
+      <path d="M152 248h10v62h62v10h-72v-72z" fill="#538BE8" />
+      <path d="M180 256h36v32l-36-32z" fill="#7DB1FF" />
+    </g>
+    
+    <g>
+      <rect x="240" y="248" width="72" height="72" fill="#639DFC" />
+      <path d="M240 248h10v62h62v10h-72v-72z" fill="#538BE8" />
+      <path d="M268 256h36v32l-36-32z" fill="#7DB1FF" />
+    </g>
+    
+    <g>
+      <rect x="328" y="248" width="72" height="72" fill="#639DFC" />
+      <path d="M328 248h10v62h62v10h-72v-72z" fill="#538BE8" />
+      <path d="M356 256h36v32l-36-32z" fill="#7DB1FF" />
+    </g>
+    
+    <g>
+      <rect x="416" y="248" width="80" height="72" fill="#639DFC" />
+      <path d="M416 248h10v62h70v10h-80v-72z" fill="#538BE8" />
+      <path d="M452 256h36v32l-36-32z" fill="#7DB1FF" />
+    </g>
+
+    
+    <path d="M152 336h344v80c0 17.7-14.3 32-32 32H48c-17.7 0-32-14.3-32-32v-16h116c11 0 20-9 20-20v-44z" fill="#FCC236" />
+    
+    
+    <path d="M16 400h116c11 0 20-9 20-20v-12h-16v12c0 4.4-3.6 8-8 8H16v12z" fill="#F2A91D" />
+    
+    <path d="M16 416c0 17.7 14.3 32 32 32h116c0-18-10-32-24-32H16z" fill="#F2A91D" />
+
+    
+    <rect x="240" y="356" width="128" height="22" rx="11" fill="#FFD15C" />
+
+    
+    <rect x="424" y="356" width="48" height="14" rx="7" fill="#E59812" />
+    <rect x="424" y="378" width="48" height="14" rx="7" fill="#E59812" />
+
+    
+    <path d="M56 448c0-30.9 25.1-56 56-56s56 25.1 56 56h-16c0-22.1-17.9-40-40-40s-40 17.9-40 40H56z" fill="#FFD15C" />
+    
+    <path d="M72 448c0-22.1 17.9-40 40-40s40 17.9 40 40H72z" fill="#E59812" />
+
+    
+    <path d="M360 448c0-30.9 25.1-56 56-56s56 25.1 56 56h-16c0-22.1-17.9-40-40-40s-40 17.9-40 40h-16z" fill="#FFD15C" />
+    
+    <path d="M376 448c0-22.1 17.9-40 40-40s40 17.9 40 40h-80z" fill="#E59812" />
+  </g>
+
+  
+  <g id="wheels">
+    
+    <g transform="translate(112, 456)">
+      <circle cx="0" cy="0" r="40" fill="#2A2D32" />
+      
+      <path d="M18 -26c8 6 13 15 13 26s-5 20-13 26c4-7 6-16 6-26s-2-19-6-26z" fill="#3D4148" />
+      
+      <circle cx="0" cy="0" r="16" fill="#DCE6F0" />
+      <circle cx="-3" cy="2" r="14" fill="#C4D1DF" />
+      <circle cx="0" cy="0" r="14" fill="#DCE6F0" />
+      
+      <circle cx="3" cy="-4" r="6" fill="#FFFFFF" />
+    </g>
+
+    
+    <g transform="translate(416, 456)">
+      <circle cx="0" cy="0" r="40" fill="#2A2D32" />
+      
+      <path d="M18 -26c8 6 13 15 13 26s-5 20-13 26c4-7 6-16 6-26s-2-19-6-26z" fill="#3D4148" />
+      
+      <circle cx="0" cy="0" r="16" fill="#DCE6F0" />
+      <circle cx="-3" cy="2" r="14" fill="#C4D1DF" />
+      <circle cx="0" cy="0" r="14" fill="#DCE6F0" />
+      
+      <circle cx="3" cy="-4" r="6" fill="#FFFFFF" />
+    </g>
+  </g>
+
+  
+  <rect x="8" y="488" width="496" height="16" rx="8" fill="#181A1D" />
+</svg>
