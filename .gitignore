@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+*.log
+backup_2026-11-27/
